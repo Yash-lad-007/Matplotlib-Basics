@@ -3,7 +3,7 @@
 This repository is a beginner-friendly guide to **Matplotlib**, one of the most popular data visualization libraries in Python.  
 It includes simple examples like **line plots, scatter plots, bar charts, histograms, and subplots**.
 
----    
+---               
    
 ## 🔹 Features   
 - Easy-to-understand Matplotlib code  
