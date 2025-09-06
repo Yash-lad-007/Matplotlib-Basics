@@ -9,7 +9,7 @@ It includes simple examples like **line plots, scatter plots, bar charts, histog
 - Easy-to-understand Matplotlib code   
 - Covers the **5 most common plot types**  
 - Well-commented for beginners   
-- Single Python file with all examples  
+- Single Python file with all examples   
 
 ---
 
