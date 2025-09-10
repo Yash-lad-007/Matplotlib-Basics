@@ -11,7 +11,7 @@ It includes simple examples like **line plots, scatter plots, bar charts, histog
 - Well-commented for beginners     
 - Single Python file with all examples   
 
----
+--- 
 
 ## 📂 Files in this repo
 - `matplotlib_basics.py` → Python file containing all the example plots.  
