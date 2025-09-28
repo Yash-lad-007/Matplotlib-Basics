@@ -5,7 +5,7 @@ It includes simple examples like **line plots, scatter plots, bar charts, histog
 
 ---                
     
-## 🔹 Features     
+## 🔹 Features      
 - Easy-to-understand Matplotlib code   
 - Covers the **5 most common plot types**  
 - Well-commented for beginners     
